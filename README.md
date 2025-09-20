@@ -1,4 +1,4 @@
-# WebhookHub — Webhooks Relay com Retentativa e Assinatura (Java • Spring Boot)
+# WebhookHub - Webhooks Relay com Retentativa e Assinatura (Java • Spring Boot)
 
 Servidor auto-hospedado para receber eventos e entregar webhooks a endpoints assinantes, com retentativa exponencial e assinatura HMAC.
 
