@@ -1,0 +1,1 @@
+package com.micdog.webhookhub.repo; import com.micdog.webhookhub.model.Endpoint; import org.springframework.data.jpa.repository.JpaRepository; public interface EndpointRepository extends JpaRepository<Endpoint,Long>{}
